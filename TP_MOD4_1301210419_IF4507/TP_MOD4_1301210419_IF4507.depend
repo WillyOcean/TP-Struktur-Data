@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1665935940 source:c:\users\omen\documents\belajar c plus\tp_mod4_1301210419_if4507\sll.cpp
+	"SLL.h"
+
+1665937118 c:\users\omen\documents\belajar c plus\tp_mod4_1301210419_if4507\sll.h
+	<iostream>
+
+1665935803 source:c:\users\omen\documents\belajar c plus\tp_mod4_1301210419_if4507\main.cpp
+	"SLL.h"
+
